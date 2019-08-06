@@ -7,11 +7,11 @@ Original documents are in Jupyter notebook format. You can view files (on your b
 
 ## Table of Contents
 
-* [Syllabus]
+* [Installation instructions](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Installation.ipynb)
 
 ***
 
-* Introduction, programming tools (8/30)
+* [Introduction, programming tools](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Intro.ipynb) (8/30)
   
   
 ***
