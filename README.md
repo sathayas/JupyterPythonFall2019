@@ -17,7 +17,7 @@ Original documents are in Jupyter notebook format. You can view files (on your b
 * [While loops](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/While.ipynb) (9/10)
 * [For loops](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/For.ipynb) (9/12)
 * [Functions](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Function.ipynb) (9/17)
-  
+* [Lists](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/List.ipynb) (9/19-9/24)  
   
 ***
 * [Git & GitHub tutorial](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2018/blob/master/Git.ipynb)
