@@ -20,7 +20,7 @@ Original documents are in Jupyter notebook format. You can view files (on your b
 * [Lists](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/List.ipynb) (9/19-9/24)  
 * [Dictionaries](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Dictionary.ipynb) (9/26)  
 * [String manipulation](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/String.ipynb) (10/1)  
-* [Reading and writing files](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Files.ipynb) (10/3 - 10/8)  
+* [Reading and writing files](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/File.ipynb) (10/3 - 10/8)  
   
 ***
 * [Git & GitHub tutorial](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2018/blob/master/Git.ipynb)
