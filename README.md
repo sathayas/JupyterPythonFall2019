@@ -21,6 +21,8 @@ Original documents are in Jupyter notebook format. You can view files (on your b
 * [Dictionaries](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Dictionary.ipynb) (9/26)  
 * [String manipulation](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/String.ipynb) (10/1)  
 * [Reading and writing files](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/File.ipynb) (10/3 - 10/8)  
+* [NumPy arrays](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/NumPy.ipynb) (10/10 - 10/15)  
+
   
 ***
 * [Git & GitHub tutorial](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2018/blob/master/Git.ipynb)
