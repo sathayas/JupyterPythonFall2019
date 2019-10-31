@@ -24,5 +24,6 @@ Original documents are in Jupyter notebook format. You can view files (on your b
 * [NumPy arrays](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/NumPy.ipynb) (10/10 - 10/15)  
 * [Git & GitHub](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Git.ipynb) (10/17)  
 * [Data visualization](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Plot.ipynb) (10/29 - 10/31)  
+* [Pandas](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Pandas.ipynb) (11/5 - 11/7)  
 
  
