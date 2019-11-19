@@ -26,6 +26,7 @@ Original documents are in Jupyter notebook format. You can view files (on your b
 * [Data visualization](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Plot.ipynb) (10/29 - 10/31)  
 * [Pandas](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Pandas.ipynb) (11/5 - 11/7)  
 * [Clustering](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Clustering.ipynb) (11/12 - 11/14)  
+* [Classification](https://nbviewer.jupyter.org/github/sathayas/JupyterPythonFall2019/blob/master/Clustering.ipynb) (11/19 - 11/26)  
 
 
  
